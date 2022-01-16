@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+}
+.body {
+  display: flex;
+  justify-content: center;
+  margin: 0px auto;
+}
+.boxes {
+  display: inline-block;
+}
+
+.box1 {
+  width: 100px;
+  height: 100px;
+}
